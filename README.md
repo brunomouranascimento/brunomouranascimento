@@ -1,16 +1,27 @@
-### Hi there 👋
+<center>
+<table>
+  <tr>
+      <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunomouranascimento&theme=radical&layout=compact" /></td>
+      <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=brunomouranascimento&show_icons=true&theme=radical" /></td>
+  </tr>   
+</table>
+</center>
 
-<!--
-**brunomouranascimento/brunomouranascimento** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h4 align="left">
+  Hey, I'm Bruno! 👋
+</h4>
+<p align="left">
+  I'm a bachelor in Digital Design and passionate about technology and especially the Apple ecosystem. I've been working with web development and coding for about 3 years. Senior Front-end developer with a focus on ReactJS, Angular and NodeJS. Clean code and responsive design, with usability, performance and code quality.
 
-Here are some ideas to get you started:
+Strong knowledge in HTML5, CSS3, modern Javascript (ES6 and ES7), AngularJS, Angular 2+, ReactJS, React Hooks, Angular Material, Bootstrap, SASS pre-processor, Firebase. NodeJS and Express at the Back-end, MongoDB and SQL. Also a Designer, acting as UX and UI.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently, working as a senior Front-end developer at Grupo RBS.
+
+Professional with over 12 years of experience in the IT area. With extensive knowledge in service quality and systems. Always in search of new knowledge and new technologies. 
+</p>
+<h5 align="left">
+  📌  Living in <b>Porto Alegre</b>, <b>Rio Grande do Sul</b>, <b>Brazil</b>  
+</h5>
+<h5 align="left">💻 Javascript | ReactJS | Angular | NodeJS | SASS | MongoDB | SQL | Git | UX and UI </h5>
+
+<h5 align="left">💼 Currenty working as a Senior Front-end developer at Datum TI </h5>
