@@ -15,7 +15,7 @@
 
 Strong knowledge in HTML5, CSS3, modern Javascript (ES6 and ES7), AngularJS, Angular 2+, ReactJS, React Hooks, Angular Material, Bootstrap, SASS pre-processor, Firebase. NodeJS and Express at the Back-end, MongoDB and SQL. Also a Designer, acting as UX and UI.
 
-Currently, working as a senior Front-end developer at Grupo RBS.
+Currently, working as a Front-end Architect at Infosys.
 
 Professional with over 13 years of experience in the IT area. With extensive knowledge in service quality and systems. Always in search of new knowledge and new technologies. 
 </p>
