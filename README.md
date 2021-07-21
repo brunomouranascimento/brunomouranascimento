@@ -146,4 +146,4 @@
 </h5>
 <h5 align="left">💻 Javascript | Angular | React | NodeJS | SASS | MongoDB | SQL | Git | UX and UI </h5>
 
-<h5 align="left">💼 Currenty working as a Front-end Architect at Infosys </h5>
+<h5 align="left">💼 Currenty working as a Front-end Architect at Datum TI </h5>
