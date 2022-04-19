@@ -36,6 +36,16 @@
 
 <p>
     <a target="_blank" rel="noopener noreferrer"
+        href="https://img.shields.io/badge/-Swift-EF4B32?style=flat&logo=swift&logoColor=white"><img
+            src="https://img.shields.io/badge/-Swift-EF4B32?style=flat&logo=swift&logoColor=white" alt="Swift"
+            data-canonical-src="https://img.shields.io/badge/-Swift-EF4B32?style=flat&logo=swift&logoColor=white"
+            style="max-width:100%;"></a>
+    <a target="_blank" rel="noopener noreferrer"
+        href="https://img.shields.io/badge/-Xcode-000000?style=flat&logo=Xcode&color=white"><img
+            src="https://img.shields.io/badge/-Xcode-000000?style=flat&logo=Xcode&color=white" alt="Xcode"
+            data-canonical-src="https://img.shields.io/badge/-Xcode-000000?style=flat&logo=Xcode&color=white"
+            style="max-width:100%;"></a>
+    <a target="_blank" rel="noopener noreferrer"
         href="https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript"><img
             src="https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript" alt="JavaScript"
             data-canonical-src="https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript"
