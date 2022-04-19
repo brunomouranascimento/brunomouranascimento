@@ -87,9 +87,9 @@
             data-canonical-src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap"
             style="max-width:100%;"></a>
     <a target="_blank" rel="noopener noreferrer"
-        href="https://img.shields.io/badge/-TypeScript-007ACC?style=flat&logo=typescript"><img
-            src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat&logo=typescript" alt="TypeScript"
-            data-canonical-src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat&logo=typescript"
+        href="https://img.shields.io/badge/-TypeScript-000000?style=flat&logo=typescript&color=white"><img
+            src="https://img.shields.io/badge/-TypeScript-000000?style=flat&logo=typescript&color=white" alt="TypeScript"
+            data-canonical-src="https://img.shields.io/badge/-TypeScript-000000?style=flat&logo=typescript&color=white"
             style="max-width:100%;"></a>
     <a target="_blank" rel="noopener noreferrer"
         href="https://img.shields.io/badge/-MongoDB-black?style=flat&logo=mongodb"><img
