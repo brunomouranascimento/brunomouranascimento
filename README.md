@@ -154,6 +154,6 @@
 <h5 align="left">
     📌 Living in <b>São Paulo</b>, <b>Brazil</b>
 </h5>
-<h5 align="left">💻 Javascript | Angular | React | NodeJS | SASS | MongoDB | SQL | Git | UX and UI </h5>
+<h5 align="left">💻 Swift | SwiftUI | Javascript | Angular | React | NodeJS | SASS | MongoDB | SQL | Git | UX and UI </h5>
 
 <h5 align="left">💼 Currenty working as a Front-end Architect at Datum TI </h5>
