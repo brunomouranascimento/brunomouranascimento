@@ -16,13 +16,13 @@
 </h4>
 <p align="left">
     I'm a bachelor in Digital Design and passionate about technology and especially the Apple ecosystem. I've been
-    working with web development and coding for about 3 years. Senior Front-end developer with a focus on ReactJS,
+    working with web development and coding for about 6 years. Senior Front-end developer with a focus on ReactJS,
     Angular and NodeJS. Clean code and responsive design, with usability, performance and code quality.
         Strong knowledge in HTML5, CSS3, modern Javascript (ES6 and ES7), AngularJS, Angular, ReactJS, React Hooks,
     Angular Material, Bootstrap, SASS pre-processor, Firebase. NodeJS and Express at the Back-end, MongoDB and SQL. Also
     a Designer, acting as UX and UI.
         Currently, working as a Front-end Architect at Infosys.
-        Professional with over 13 years of experience in the IT area. With extensive knowledge in service quality and
+        Professional with over 16 years of experience in the IT area. With extensive knowledge in service quality and
     systems. Always in search of new knowledge and new technologies.
 
 
